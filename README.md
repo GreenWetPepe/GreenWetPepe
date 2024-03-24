@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**GreenWetPepe/GreenWetPepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Misha
+========================
+I student of MSTU STANKIN. 
 
-Here are some ideas to get you started:
+### My Skills
+![My Skills](https://skillicons.dev/icons?i=cpp,qt,git,visualstudio,mysql,html,css)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Socials
+<p>
+<a href="https://vk.com/greenwetpepe"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968835.png" width=47> </a>
+<a href="https://t.me/TheFrog4585"> <img src="https://cdn-icons-png.flaticon.com/128/2504/2504941.png" width=47> </a>
+</p>
